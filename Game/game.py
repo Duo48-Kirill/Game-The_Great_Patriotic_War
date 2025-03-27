@@ -11,6 +11,7 @@ name: str = input("Введите ваше имя: ").capitalize()
 if (
     name == False
     or name in female_names
+    or name==""
     or (name[-1] in "ая" and name not in male_names)
 ):  # Если имя пустое, то по стандарту оно будет являться Алексеем
     name: str = "Алексей"
