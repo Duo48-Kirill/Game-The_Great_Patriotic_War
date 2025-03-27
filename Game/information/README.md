@@ -1,4 +1,4 @@
-# WWII
+# The Great Patriotic War
 
 ## О проекте
 
