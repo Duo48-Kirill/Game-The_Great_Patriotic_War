@@ -86,5 +86,5 @@ if start:
                 Ending.second_end(name)
 
         else:
-            time.sleep(3)
+            time.sleep(5)
             print(line)  # Обычный вывод строк с повествованием
